@@ -1,0 +1,157 @@
+nav {
+
+	margin-left:13%;
+	margin-right:10%;
+	margin-top:10px;
+	padding:25px;
+}
+body {
+	margin:0;
+		background-image:url("../images/photoBackdrop.png");
+		background-size:100%;
+}
+p, ul, ol, a, label{
+	color:#777777;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+h1, h2 {
+	font-family:'Georgia', Times, Times New Roman, serif;
+}
+h2 {
+	color:#4aaaa5;
+}
+a {
+	font-size:14px;
+	padding-right:10px;
+	text-decoration:none;
+}
+.header {
+	display: flex;
+	background-color:white;
+	margin-top:0px;
+	margin-bottom:50px;
+	width:100%;
+	border-bottom:3px solid #dddddd;
+}
+.header h1{
+	margin-left:16%;
+	margin-right:16%;
+	background:#4aaaa5;
+	color:white;
+	padding:25px;
+}
+
+.sideHeader {
+display: flex;
+background-color:white;
+margin-top:0px;
+margin-bottom:50px;
+width:100%;
+border-bottom:3px solid #dddddd;
+}
+.sideHeader h1{
+margin-left:28%;
+margin-right:16%;
+background:#4aaaa5;
+color:white;
+padding:25px;
+margin-bottom:0px;
+}
+
+
+.sideNavBar {
+	background:white;
+	margin-bottom:0;
+	margin-left:-11%;
+}
+.navBar {
+	background:white;
+	margin-bottom:0;
+	}
+
+.contentImg {
+	float:left;
+}
+.portfolioImg {
+	float:left;
+	padding:25px;
+	padding-left:0;
+}
+
+.mainBody {
+	background:white;
+	width:960px;
+	margin:0 auto;	
+	margin-top:-20;
+	padding:10px;
+	padding-left:40px;
+	padding-right:40px;
+	overflow:auto;
+}
+.mainSideBody {
+	background:white;
+	width:600px;
+	margin:auto;
+	margin-top:-20;
+	padding:10px;
+	padding-left:40px;
+	padding-right:40px;
+	overflow:auto;
+}
+.line {
+	width:960px;
+	background:#dddddd;
+	height:2px;
+	margin-bottom:5px;
+}
+.sideLine {
+
+	width:600px;
+	background:#dddddd;
+	height:2px;
+	margin-bottom:5px;
+}
+
+.contactForm {
+	box-sizing:border-box;
+	border-radius:5px;
+	padding:20px;
+}
+input[type=text], select, textarea {
+	width:100%;
+	padding:12px;
+	border: 1px solid #dddddd;
+	box-sizing:border-box;
+	margin-top:6px;
+	margin-bottom:16px;
+	resize:vertical;
+}
+
+input[type=submit]{
+	padding:12px 20px;
+	border:none;
+	border-radius: 4px;
+	cursor:pointer;
+	color:white;
+	background-color:#4aaaa5;
+}
+
+.copyright {
+	margin-bottom:10px;
+	color:#dddddd;
+	font-size:15px;
+}
+
+.footer {
+	border-top: 8px solid #4aaaa5;
+	background:#666666;
+	text-align:center;
+	margin-bottom:0px;
+	padding-top:20px;	
+	position:fixed;
+	left:0;
+	bottom:0;
+	width:100%;
+}
+
+
