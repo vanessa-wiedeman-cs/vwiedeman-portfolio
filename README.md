@@ -6,7 +6,7 @@ Project Requirements:
 
   - Build a website that reflects previous coding work/skills. 
   
- Project link: https://vanessa-wiedeman-cs.github.io/updated-portfolio/
+ Project link: https://vanessa-wiedeman-cs.github.io/vwiedeman-portfolio/
  
  I like being organized so I picked a bullet board design I found for free!
 
